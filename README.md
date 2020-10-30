@@ -17,3 +17,6 @@ Modified Stylelint to lint styled-components. One of the most important rules to
 
 ### Styles
 Normalize.css is imported into the Layout component. There are modifications to many CSS attributes in the Layout component.
+
+### ES Modules in Gatsby
+To allow ES Modules to be used in Gatsby, ESM is imported and used when running `nom start`.
