@@ -1,11 +1,7 @@
 export default {
   siteMetadata: {
-    title: `Bev.ery`,
-    siteUrl: `https://www.beveryatl.com`,
-    description: `Your bevereages delivered.`,
+    title: `Gatsby Starter`,
+    siteUrl: `https://www.standingdreams.com`,
   },
-  plugins: [
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-styled-components',
-  ],
+  plugins: ["gatsby-plugin-react-helmet", "gatsby-plugin-styled-components"],
 }
